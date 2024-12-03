@@ -1,5 +1,9 @@
 # MLBB Hero Winrate and Counter
 
+## Project Announcement
+
+We are excited to announce that this project will soon be available on PyPI! Stay tuned for updates and instructions on how to install and use the package.
+
 ## Overview
 
 This module provides classes to interact with an API that filters hero statistics based on various criteria. It includes the `FilterAPI` class for making API requests and the `FilterFactory` class to generate specific filter configurations. Additionally, it provides a function to create a table of hero data.
