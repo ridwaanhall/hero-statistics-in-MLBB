@@ -2,7 +2,7 @@
 
 ## Project Announcement
 
-We are excited to announce that this project will soon be available on PyPI! Stay tuned for updates and instructions on how to install and use the package.
+We are excited to announce that this project will soon be available on PyPI! Stay tuned for updates and instructions on how to install and use the package. For now, here is the API Docs on website [MLBB Hero Analytics API](https://api-mobilelegends.vercel.app/).
 
 ## Overview
 
